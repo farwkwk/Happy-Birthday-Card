@@ -7,7 +7,7 @@ const config = {
 
     nickname: "farah", // nickname(optional)
 
-    pic: "https://telegra.ph/buat-farah-07-13", //image url of recipients (Mandatory)
+    pic: "https://drive.google.com/file/d/1B2UaIBkBFRgKeOHTijp9cayuE41MrS-t/view?usp=sharing", //image url of recipients (Mandatory)
 
     showScrollMsg: true, // set to false if you do not want the scrolling message
 };
