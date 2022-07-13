@@ -7,7 +7,7 @@ const config = {
 
     nickname: "farah", // nickname(optional)
 
-    pic: "https://drive.google.com/file/d/1B2UaIBkBFRgKeOHTijp9cayuE41MrS-t/view?usp=sharing", //image url of recipients (Mandatory)
+    pic: "", //image url of recipients (Mandatory)
 
     showScrollMsg: true, // set to false if you do not want the scrolling message
 };
